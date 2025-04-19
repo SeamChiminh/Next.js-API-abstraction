@@ -1,4 +1,3 @@
-// File: pages/index.js
 "use client"
 import { useEffect, useState } from 'react';
 import { getCategories } from './services/api';
